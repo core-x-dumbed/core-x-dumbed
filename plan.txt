@@ -1,0 +1,24 @@
+PLAN
+[X] view lists
+[X] make list
+[X] open a list
+[] exit list
+[] add a todo
+[] remove a todo
+[X] rename list
+[] open calender
+[] open stats
+[] open history
+
+
+FEATURES
+[] add
+[] remove
+[] multiple lists
+[] edit name
+[] stats + week history
+[] completion streak + earlier streak
+[] priority [p:] + colour
+[] calender + heat map
+[] links (optional)
+[] tab completion (optional)
